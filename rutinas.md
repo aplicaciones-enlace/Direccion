@@ -28,8 +28,8 @@ Armado con el calendario del 01/09 al 26/10/2026 y lo que Cindy ha contado. Se v
 | Primeros días hábiles del mes | Pago PILA en Aportes en Línea | **No está agendado** |
 | Del 2 al 5 de cada mes | Entrega de facturación (Jerry) | Solo apareció en septiembre |
 | Alrededor del 15 y fin de mes | Pago de nómina (Siigo) | **No está agendado** |
-| Mensual (según último dígito del NIT: 2) | Declarar y pagar retención en la fuente (formulario 350) | **No está agendado** — período sep vence hasta el 23/10/2026 y oct hasta el 25/11/2026 según el último dígito; falta la fecha exacta para el dígito 2 |
-| Bimestral | IVA (formulario 300) | **No está agendado** — bimestre sep-oct vence hasta el 25/11/2026 según el último dígito |
+| Mensual (según último dígito del NIT: 2) | Declarar y pagar retención en la fuente (formulario 350) | **No está agendado** — plazo general: período sep hasta el 23/10/2026 y oct hasta el 25/11/2026 ([Gerencie](https://www.gerencie.com/calendario-dian)); la fecha exacta para el dígito 2 está en pendientes |
+| Bimestral | IVA (formulario 300) | **No está agendado** — plazo general bimestre sep-oct hasta el 25/11/2026 ([Gerencie](https://www.gerencie.com/calendario-dian)) |
 | Trimestral | FONTIC en MinTIC (plataforma SER) | **No está agendado** |
 | Después de cada viático | Pedir recibos y legalizar | **No hay recordatorio** |
 | 4 a 5 días después de cada compra | Confirmar llegada a Guatapé | Se programa con cada compra |

@@ -14,8 +14,8 @@ Revisar aquí antes de proponer una herramienta. Si sale una nueva, se agrega.
 | **Gmail** | cindypzac@gmail.com y enlaceguatape@gmail.com (ahí llegan las alertas del banco) |
 | **WhatsApp / LiveConnect** | Atención a clientes (Torre de Control) y comunicación con empleados |
 | **n8n** (VPS de Hostinger) | Asistente Ejecutivo Virtual: módulos WhatsApp/Pendientes y Recursos Humanos |
-| **GitHub** (cuenta aplicaciones-enlace) | Esta base contable (Direccion), sitio de capacitaciones, app Plata en Casa |
+| **GitHub** (cuenta aplicaciones-enlace) | Esta base contable (Direccion), sitio de capacitaciones, app Dinero en Pareja |
 | **Hostinger** | Dominio enlacenetworks.net y VPS |
-| **Plata en Casa** | Finanzas personales de Cindy y Jesús (no es de Enlace) |
+| **Dinero en Pareja** (antes Plata en Casa; repo plata-en-casa) | Finanzas personales de Cindy y Jesús (no es de Enlace) |
 | **Gemini** | Tareas menudas dentro de las apps (leer correos, clasificar facturas) |
 | **Claude** | Lo fuerte: análisis, construir, revisar |

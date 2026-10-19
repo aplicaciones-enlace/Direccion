@@ -31,4 +31,7 @@ La retención se calcula sobre el valor **antes de IVA**.
 - **Retención de IVA:** solo en servicios del exterior (100 % del IVA). Ver `empresa.md`.
 - Lo retenido se declara y paga en el **formulario 350** del mes siguiente, y se le entrega al proveedor su **certificado de retención**.
 
-Fuentes: Siempre al Día (tabla 2026 y regreso del Decreto 572), Bloomberg Línea (UVT 2026).
+Fuentes:
+- [Siempre al Día – Tabla de retención 2026 y regreso del Decreto 572](https://siemprealdia.co/colombia/impuestos/tabla-de-retencion-en-la-fuente-2026/)
+- [Bloomberg Línea – UVT 2026 (Resolución 000238 de 2025)](https://www.bloomberglinea.com/latinoamerica/colombia/esta-es-la-tabla-de-retencion-en-la-fuente-para-2026-en-colombia/)
+- Pagos al exterior: tienen tarifas propias, no esta tabla. Revisar caso por caso.
