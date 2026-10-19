@@ -9,4 +9,5 @@ Preguntas que Claude no puede resolver solo. Cuando Cindy responda, se pasa la r
 - [ ] **Almacén en WispHub:** que Cindy pase el link de dónde se registran las entradas al inventario en WispHub.
 - [ ] **Salidas del almacén:** decidir dónde se descuenta lo que se usa. Recomendación de Claude: el inventario vive en **WispHub** (ahí ya se asignan equipos a clientes) y aquí solo queda la parte contable, para no llevar el mismo inventario en dos lados que se descuadren. Si WispHub no alcanza, se hace un Excel de salidas.
 - [ ] **A quién se le pregunta si llegó:** ¿a Jesús, a María (Mary) o al grupo de WhatsApp de la oficina?
+- [ ] **Fechas DIAN exactas para el NIT terminado en 2** (retención mensual 350 e IVA 300): sacarlas del calendario oficial de la DIAN y agendarlas.
 - [ ] **Siigo / María Isabel:** ¿este registro se le pasa a María Isabel cada mes para que lo cause en Siigo, o ella ya registra algo por su lado?

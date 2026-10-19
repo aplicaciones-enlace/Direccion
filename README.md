@@ -20,4 +20,6 @@ Cindy es la gerente: pide. Claude es el área contable: valida, calcula y regist
 | `pendientes.md` | Preguntas abiertas y cosas por confirmar |
 | `aplicativos.md` | Aplicativos que usa Cindy y para qué |
 | `bitacora/` | Qué se hizo cada día |
+| `rutinas.md` | Procesos rutinarios, calendario fijo y qué se puede automatizar |
+| `proyectos.md` | Proyectos activos y quietos con lo que les falta |
 | `calcular.py` | Calculadora de retenciones que usa Claude |
