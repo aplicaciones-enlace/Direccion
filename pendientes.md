@@ -20,3 +20,12 @@ Preguntas que Claude no puede resolver solo. Cuando Cindy responda, se pasa la r
 - [ ] **Repetidores (24) y TDT (1):** validar en WispHub o con Arley a quién se entregaron.
 - [ ] **Recordatorio 20/10 8:00 a.m.:** revisión del conteo y pasarlo a la hoja (programado en el chat).
 - [ ] **Telegram:** crear el bot de avisos para n8n.
+
+## Otros chats de hoy (19/10/2026)
+- [ ] **¿GitHub se deja como cuaderno de notas de Claude o se borra?** (el área contable es WispHub).
+- [ ] **WispHub:** link de dónde se registran compras/gastos/almacén y, si el plan la tiene, la llave de API.
+- [ ] **TeleGuatapé – Felipe:** la certificación del 03/03/2026 dice $2.340.000 mensuales y pago mensual; no cuadra con el contrato por evento. ¿Se entregó firmada? Si sí, hacer aclaración.
+- [ ] **TeleGuatapé – contrato de Felipe:** el de la carpeta tiene la cláusula 5 vieja y no menciona el 10 % prestacional; firmar el corregido.
+- [ ] **TeleGuatapé:** mandar el logo del canal (el azul que se encontró es de ARCAS).
+- [ ] **App SST:** a Cindy le abre en blanco; revisar. El subdominio app.enlacenetworks.net no se creó (un chat dice que el DNS no está en Hostinger, pero asistente.enlacenetworks.net sí se creó en Hostinger: revisar).
+- [ ] **Bosque Rosa:** comprobante del pago de la separación (personal) para Dinero en Pareja.

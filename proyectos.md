@@ -5,9 +5,11 @@
 ## Activos (se tocaron en octubre)
 | Proyecto | Última vez | Qué falta (según lo hablado) |
 |---|---|---|
-| Área contable (este repositorio) | 19/10 | Datos de compras del día, link de WispHub, reteICA Guatapé |
-| App de empleados / Cuadrilla del Día (SST) | 17/10 | Módulo SST "Municipios" primero; luego RR.HH. y capacitaciones |
-| Contrato 170 UT VMAS (Puerto Berrío) | 17/10 | Documentación SST diaria en Drive con Excel índice |
+| Área contable (se registra en **WispHub**) | 19/10 | Link y llave API de WispHub, datos de compras del día, reteICA Guatapé |
+| App TeleGuatapé (personal por evento, pagos, presupuesto) | 19/10 | Datos de pagos (WispHub o WhatsApp de pagos), logo del canal; revisar certificación de Felipe y su contrato |
+| App SST "Expediente del personal" (Apps Script) | 19/10 | A Cindy le abre en blanco; subdominio app.enlacenetworks.net no se pudo crear |
+| App de empleados / Cuadrilla del Día (SST) | 19/10 | Módulo SST "Municipios" primero; luego RR.HH. y capacitaciones |
+| Contrato 170 UT VMAS (Puerto Berrío) | 19/10 | Documentación SST diaria en Drive con Excel índice |
 | Capacitación empleado nuevo / sitio capacitaciones | 15/10 | Inducción General (falta Reglamento Interno actualizado y PESV) |
 | Sitio SST | 15/10 | Repo y subdominio propios |
 | Dinero en Pareja (personal) | 15/10 | — |

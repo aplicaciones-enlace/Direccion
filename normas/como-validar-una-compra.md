@@ -14,6 +14,7 @@ Cada vez que Cindy diga "hice un pago" o "voy a comprar", Claude piensa como un 
 6. **Alertas:** gasto sin soporte válido, proveedor sin RUT, efectivo de más de 100 UVT ($5.237.400) a una sola persona, compra a persona natural que quita IVA descontable.
 
 ## Paso 2 — Registro contable
+- **El registro oficial va en WispHub** (el área contable de Cindy). El archivo `registros/compras-2026.csv` es solo la copia de trabajo de Claude.
 - Registrar en `registros/compras-2026.csv` con estado **PAGADO – EN CAMINO** (o **PAGADO** si es un servicio o algo que no llega físico).
 - Decir a qué va: **almacén/inventario** (equipos, ONUs, fibra, materiales), **gasto** (servicios, arriendos, papelería que se consume ya) o **activo fijo** (herramientas y equipos que duran más de un año).
 
