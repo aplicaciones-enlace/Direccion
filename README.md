@@ -18,4 +18,6 @@ Cindy es la gerente: pide. Claude es el área contable: valida, calcula y regist
 | `registros/compras-2026.csv` | Todas las compras y pagos registrados |
 | `registros/proveedores.csv` | Datos tributarios de cada proveedor (se llena una vez) |
 | `pendientes.md` | Preguntas abiertas y cosas por confirmar |
+| `aplicativos.md` | Aplicativos que usa Cindy y para qué |
+| `bitacora/` | Qué se hizo cada día |
 | `calcular.py` | Calculadora de retenciones que usa Claude |
