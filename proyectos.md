@@ -11,7 +11,7 @@
 | Capacitación empleado nuevo / sitio capacitaciones | 15/10 | Inducción General (falta Reglamento Interno actualizado y PESV) |
 | Sitio SST | 15/10 | Repo y subdominio propios |
 | Dinero en Pareja (personal) | 15/10 | — |
-| Asistente n8n (WhatsApp/Pendientes, RR.HH.) | 14/10 | Montaje en el VPS de Hostinger |
+| Asistente n8n + Almacén | 19/10 | VPS y n8n listos en asistente.enlacenetworks.net; falta conectar Google, probar Almacén 1, WispHub y Telegram |
 | Contrato 677 (La Milla / Doradal) | 12/10 | Informe de entrega de labores Doradal |
 | Vivienda Bosque Rosa (personal) | 12/10 | — |
 | Cabecera/parrilla de TV | 11/10 | Control en Excel para técnicos y comercial; retomar redes sociales |

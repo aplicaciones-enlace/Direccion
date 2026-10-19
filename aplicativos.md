@@ -13,9 +13,12 @@ Revisar aquí antes de proponer una herramienta. Si sale una nueva, se agrega.
 | **Google Drive / Sheets** | Documentos de la empresa, SST, controles |
 | **Gmail** | cindypzac@gmail.com y enlaceguatape@gmail.com (ahí llegan las alertas del banco) |
 | **WhatsApp / LiveConnect** | Atención a clientes (Torre de Control) y comunicación con empleados |
-| **n8n** (VPS de Hostinger) | Asistente Ejecutivo Virtual: módulos WhatsApp/Pendientes y Recursos Humanos |
+| **n8n** (VPS de Hostinger, https://asistente.enlacenetworks.net) | Asistente Ejecutivo Virtual: primero el Almacén (flujo "📦 Almacén 1 · Visitas del calendario"); luego WhatsApp/Pendientes, RR.HH. y el resto de la empresa |
 | **GitHub** (cuenta aplicaciones-enlace) | Esta base contable (Direccion), sitio de capacitaciones, app Dinero en Pareja |
 | **Hostinger** | Dominio enlacenetworks.net y VPS |
 | **Dinero en Pareja** (antes Plata en Casa; repo plata-en-casa) | Finanzas personales de Cindy y Jesús (no es de Enlace) |
 | **Gemini** | Tareas menudas dentro de las apps (leer correos, clasificar facturas) |
 | **Claude** | Lo fuerte: análisis, construir, revisar |
+| **App Conteo de Bodega Enlace** (artifact de Claude) | Conteo de bodega con foto real y seriales, pedidos por reclamar, entregas de material |
+| **Hoja "Almacén Enlace Networks"** (Google Sheets) | Inventario, movimientos, visitas, compras, novedades, activos, asignaciones, cuadrillas, kit estándar |
+| **Telegram** | Avisos internos que manda n8n (material por acabarse, pedidos atrasados) |

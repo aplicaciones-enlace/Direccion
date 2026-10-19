@@ -11,3 +11,12 @@ Preguntas que Claude no puede resolver solo. Cuando Cindy responda, se pasa la r
 - [ ] **A quién se le pregunta si llegó:** ¿a Jesús, a María (Mary) o al grupo de WhatsApp de la oficina?
 - [ ] **Fechas DIAN exactas para el NIT terminado en 2** (retención mensual 350 e IVA 300): sacarlas del calendario oficial de la DIAN y agendarlas.
 - [ ] **Siigo / María Isabel:** ¿este registro se le pasa a María Isabel cada mes para que lo cause en Siigo, o ella ya registra algo por su lado?
+
+## Almacén y n8n (19/10/2026)
+- [ ] **n8n:** terminar la conexión "cuenta de Google" (Cindy pega el secreto y da Permitir); luego asignarla al flujo Almacén 1, probarlo y publicarlo.
+- [ ] **Google Cloud:** completar "Información de la marca" y publicar la app (en modo prueba la conexión vence cada 7 días).
+- [ ] **App de conteo:** compartirla al muchacho de bodega como Editor (necesita cuenta de Claude) y mandarle el mensaje.
+- [ ] **Carros/cuadrillas:** cuántos hay y quién va en cada uno, para armar la dotación fija del carro y los paqueticos.
+- [ ] **Repetidores (24) y TDT (1):** validar en WispHub o con Arley a quién se entregaron.
+- [ ] **Recordatorio 20/10 8:00 a.m.:** revisión del conteo y pasarlo a la hoja (programado en el chat).
+- [ ] **Telegram:** crear el bot de avisos para n8n.
