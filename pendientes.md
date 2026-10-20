@@ -38,3 +38,12 @@ Preguntas que Claude no puede resolver solo. Cuando Cindy responda, se pasa la r
 - [ ] Decidir el divisor de la hora: 192/168 (como se viene haciendo) o 220/210 (lo usual).
 - [ ] Revisar los intereses de cesantías y las vacaciones en la liquidación de Felipe.
 - [ ] Aclarar o recoger la certificación de Felipe del 03/03/2026.
+
+## TeleGuatapé — aplicativo (20/10/2026)
+- [ ] **Tarifa de los contratistas:** decidir si se sigue con la tabla de Felipe (con recargos), si se quita el nocturno y solo se paga domingo o festivo, o si se pasa a valor plano por hora o día. Con cualquiera, avisarles por escrito desde una fecha.
+- [ ] **Retención en la fuente** a contratistas: confirmar el régimen de TeleGuatapé (si está en SIMPLE no retiene).
+- [ ] Reclasificar en WispHub los gastos de Enlace que quedaron en el grupo TELEGUATAPE.
+- [ ] Cargar los ingresos 2024–2025 del canal (pautas, eventos, patrocinios).
+- [ ] Cuántas cuotas del contrato de difusión de la Alcaldía ($30.000.000) se han cobrado.
+- [ ] Inventario por puntos fijos (Concejo, parroquia, emisora, monasterio) y puntos de internet: revisar los grupos de WhatsApp de TeleGuatapé cuando Cindy no lo tenga abierto, o con el chat exportado.
+- [ ] ¿"Reuniones" es un módulo nuevo (actas y acuerdos)?
