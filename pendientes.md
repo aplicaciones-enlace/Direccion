@@ -29,3 +29,12 @@ Preguntas que Claude no puede resolver solo. Cuando Cindy responda, se pasa la r
 - [ ] **TeleGuatapé:** mandar el logo del canal (el azul que se encontró es de ARCAS).
 - [ ] **App SST:** a Cindy le abre en blanco; revisar. El subdominio app.enlacenetworks.net no se creó (un chat dice que el DNS no está en Hostinger, pero asistente.enlacenetworks.net sí se creó en Hostinger: revisar).
 - [ ] **Bosque Rosa:** comprobante del pago de la separación (personal) para Dinero en Pareja.
+## TeleGuatapé — personal (19/10/2026)
+- [ ] Confirmar cuáles cuentas de Felipe se pagaron, con fecha y comprobante.
+- [ ] El apellido y la cédula de Catalina.
+- [ ] Elkin: ¿está en la nómina de Enlace o de TeleGuatapé? Tiene preingreso del 09/07/2026 a nombre del canal.
+- [ ] ¿Jorge Armando sigue con el contrato TG-0002? Si sigue, cambiarlo al contrato por evento.
+- [ ] Encuentro de bandas de El Peñol: ¿15 o 16 de agosto? Y la caminata de mascotas: ¿27 o 28 de septiembre?
+- [ ] Decidir el divisor de la hora: 192/168 (como se viene haciendo) o 220/210 (lo usual).
+- [ ] Revisar los intereses de cesantías y las vacaciones en la liquidación de Felipe.
+- [ ] Aclarar o recoger la certificación de Felipe del 03/03/2026.
