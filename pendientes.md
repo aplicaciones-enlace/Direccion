@@ -3,7 +3,7 @@
 Preguntas que Claude no puede resolver solo. Cuando Cindy responda, se pasa la respuesta a la base y se tacha aquí.
 
 - [ ] **Retención de ICA en Guatapé:** ¿el municipio nombró a Enlace como agente de retención de ICA? ¿Qué tarifa? (No se encontró el estatuto de Guatapé en internet. Preguntar a María Isabel o a la Secretaría de Hacienda.)
-- [ ] **TeleGuatapé:** en el RUT, la televisión (actividad 6020) aparece como un establecimiento de Enlace. ¿Las compras de TeleGuatapé se facturan a nombre de Enlace Networks y se registran aquí mismo, o TeleGuatapé tiene NIT propio?
+- [ ] **TeleGuatapé:** en el RUT, la televisión (actividad 6020) aparece como un establecimiento de Enlace. ¿Las compras de TeleGuatapé se facturan a nombre de Enlace Networks y se registran aquí mismo, o TeleGuatapé tiene NIT propio? → Dato encontrado: TeleGuatapé tiene NIT propio 901.863.625-4 (Canal de la Subregión de Embalses del Oriente Antioqueño SAS). Falta que Cindy confirme a nombre de quién se facturan sus compras.
 - [ ] **Dirección:** el RUT dice CL 28 CR 28 13, y en otros documentos se usa Cra. 28 # 28-13. Confirmar cuál es la correcta para que coincida en todo.
 - [ ] **Dónde quedan las facturas:** ¿en qué carpeta de Drive se guardan los soportes de compras para enlazarlos en el registro?
 - [ ] **Almacén en WispHub:** que Cindy pase el link de dónde se registran las entradas al inventario en WispHub.
@@ -26,7 +26,7 @@ Preguntas que Claude no puede resolver solo. Cuando Cindy responda, se pasa la r
 - [ ] **WispHub:** link de dónde se registran compras/gastos/almacén y, si el plan la tiene, la llave de API.
 - [ ] **TeleGuatapé – Felipe:** la certificación del 03/03/2026 dice $2.340.000 mensuales y pago mensual; no cuadra con el contrato por evento. ¿Se entregó firmada? Si sí, hacer aclaración.
 - [ ] **TeleGuatapé – contrato de Felipe:** el de la carpeta tiene la cláusula 5 vieja y no menciona el 10 % prestacional; firmar el corregido.
-- [ ] **TeleGuatapé:** mandar el logo del canal (el azul que se encontró es de ARCAS).
+- [x] ~~**TeleGuatapé:** mandar el logo del canal~~ → encontrado en Drive (id 158ml9Y1bwTuz2PPNOGaigFRmwzWcNTdw) y puesto en la app.
 - [ ] **App SST:** a Cindy le abre en blanco; revisar. El subdominio app.enlacenetworks.net no se creó (un chat dice que el DNS no está en Hostinger, pero asistente.enlacenetworks.net sí se creó en Hostinger: revisar).
 - [ ] **Bosque Rosa:** comprobante del pago de la separación (personal) para Dinero en Pareja.
 ## TeleGuatapé — personal (19/10/2026)
